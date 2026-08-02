@@ -1,1 +1,22 @@
+# AI & ML Fundamentals Report
+## Section 1: Introduction to AI & Machine Learning
+### 1. Fundamental Definitions
+* **Artificial Intelligence (AI):** A broad branch of computer science focused on building smart systems capable of performing tasks that typically require human intelligence.
+* **Machine Learning (ML):** A specific subset of AI that uses statistical algorithms to enable systems to automatically learn and improve from experience without being explicitly programmed.
+#### Key Differences: AI vs ML
 
+| Feature | Artificial Intelligence (AI) | Machine Learning (ML) |
+| :--- | :--- | :--- |
+| **Concept** | Broad concept of building intelligent machines. | Specific technique to achieve AI using data. |
+| **Goal** | To simulate human-like reasoning. | To learn from patterns in data to make predictions. |
+| **Scope** | Includes ML, NLP, Robotics, Computer Vision. | A subset of AI focused on algorithms and statistical models. |
+
+---
+## Section 2: Types of AI
+* **Narrow AI (Weak AI):** Systems designed and trained to execute specific tasks (e.g., Apple Siri, Netflix recommendation system).
+* **General AI (AGI / Strong AI):** Theoretical AI systems capable of understanding, learning, and applying intellectual capabilities across any domain.
+---
+## Section 3: Machine Learning Paradigms
+1. **Supervised Learning:** Trained on labeled data (e.g., Linear Regression, Decision Trees).
+2. **Unsupervised Learning:** Finds patterns in unlabeled data (e.g., K-Means Clustering, PCA).
+3. **Reinforcement Learning:** Learns via trial, error, rewards, and penalties (e.g., Q-Learning).
